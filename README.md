@@ -1,2 +1,4 @@
 # Multivariate-volatility-model
-Estimation of a multivariate volatility model for 3 stocks to study their pairwise correlations over time
+In the first part we estimated the univariate GARCH model and then we applied a DCC model to compute the dynamic correlation among the pairwise stocks. Lastly, we plotted the conditional correlation series.
+
+Contributor: Alessandro Tabacchi
